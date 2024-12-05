@@ -88,3 +88,5 @@ nb-configuration.xml
 ### Liquibase snapshot files ###
 liquibase/snapshots/*.xml
 #############
+trufflehog-report.json
+semgrep-report.json
